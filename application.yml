@@ -10,7 +10,3 @@ microservices:
   payment:
     endpoint:
       uri: http://PAYMENT-SERVICE/payment/doPayment
-
-
-server:
-  port: 9999

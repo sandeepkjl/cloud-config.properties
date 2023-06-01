@@ -1,5 +1,2 @@
 payment:
   endpoint: http://PAYMENT-SERVICE/payment/doPayment
-
-server:
-  port: 8888
